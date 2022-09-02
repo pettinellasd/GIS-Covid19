@@ -1,0 +1,25 @@
+RS,Bundesland,Impfungen kumulativ,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Differenz zum Vortag
+,,Gesamt,BioNTech,Moderna,AstraZeneca,Janssen,Novavax,
+8.0,Baden-Württemberg,23779603,17572740,4087754,1596655,501673,20781,4320.0
+9.0,Bayern,27968546,21024414,4486859,1918025,520180,19068,6548.0
+11.0,Berlin,8240490,6070598,1551220,476853,135333,6486,1656.0
+12.0,Brandenburg,4885360,3639267,822982,301939,117557,3615,965.0
+4.0,Bremen,1740271,1249515,317869,123395,48434,1058,386.0
+2.0,Hamburg,4497171,3300503,834099,243328,116403,2838,978.0
+6.0,Hessen,13801291,10147910,2358301,1018562,267466,9052,2229.0
+13.0,Mecklenburg-Vorpommern,3459346,2598720,571770,217222,67880,3754,527.0
+3.0,Niedersachsen,18583219,13141853,3492708,1487311,446460,14887,2820.0
+5.0,Nordrhein-Westfalen,42065519,31427274,6685069,3086163,846588,20425,11810.0
+7.0,Rheinland-Pfalz,9169792,6814763,1543459,626836,174201,10533,1749.0
+10.0,Saarland,2365997,1776144,425070,112303,50671,1809,511.0
+14.0,Sachsen,7374555,5657639,1109899,493133,104476,9408,892.0
+15.0,Sachsen-Anhalt,4515691,3306419,799792,294711,111144,3625,703.0
+1.0,Schleswig-Holstein,7104877,5007826,1437411,518453,136374,4813,1786.0
+16.0,Thüringen,4150953,3127468,671977,249671,96485,5352,388.0
+,Bundesressorts*,535843,294496,202847,30313,8149,38,35.0
+,Gesamt,184238524,136157549,31399086,12794873,3749474,137542,38303.0
+,,,,,,,,
+,,,,,,,,
+,"RS: Regionalschlüssel eines jeden Bundeslandes (destatis, https://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeindeverzeichnis/Administrativ/beschreibung-gebietseinheiten.pdf?__blob=publicationFile).",,,,,,,
+,,,,,,,,
+,"*Impfungen, die aus dem Impfkontingent des Bundes gemäß Coronavirus-Impfverordnung an Angehörige des Bundes verabreicht wurden. ",,,,,,,
