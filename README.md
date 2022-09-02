@@ -1,4 +1,4 @@
-# GIS-Covid19
+# GIS-Covid19 https://img.shields.io/github/followers/pettinellasd?label=Follow%20me&logo=python&style=social
 
 - 👋 Hi, I’m Simon Danny Pettinella, I live in Italy but I always keep my horizons far away!
 - 👀 I’m interested in so many things, I've so many passions and among them there is the data science
