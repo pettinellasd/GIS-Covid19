@@ -1,26 +1,34 @@
-# GIS-Covid19 
+<h1 align="center">GIS-Covid19</h1>
+<h3 align="center">Quick understanding visualization without a manual daily update</h3>
 
-<h1 align="center">Hi 👋, I'm Simon Danny Pettinella</h1>
-<h3 align="center">I live in Italy but I always keep my horizons far away!</h3>
+My work on Covid19 mapping rests on three pillars:
+- Constantly updated (without the need for code intervention)
+- Use within everyone's reach
+- Comprehensive in data entry
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pettinellasd&label=Profile%20views&color=0e75b6&style=flat" alt="pettinellasd" /> </p>
+To do this we have chosen as:
+- Work environment, the Windows operating system (as the most popular)
+- Python programming language, which is well suited to both GIS and data science operations
+- Jupiter interpreter, to view the work both at the end and in the middle of the code
 
-- 👀 I’m interested in so many things, **I've so many passions and among them there is the data science**
 
-- 🌱 I’m always learning **Python, R, Matlab... 'cause there are always news: new versions, new libraries, new potentials!**
+What you will find:
 
-- 🎓 I've a bachelor in business and management and I have a **master degree in applied data science**
+Thanks to the implementation of the Folium library and its most intrinsic features viewing the data is simple and rather intuitive.
+In addition, the use of choropletic maps combined with the options in the drop-down menu makes it faster to observe the differences between areas.
 
-- 💞️ Yeah, I like looking at **data, observing the markets, making precise pictures of what is happening around me**
+The resulting graphics have been designed for a mass audience, so that a reading of them can remain exhaustive and satisfy the most common and frequent questions, ergo not all the data made available by the ministry and civil protection are necessarily to be included in those maps
 
-- 📫 If you want to get in touch with me, don't hesitate: I like to exchange opinions, talk about business, discuss data science **Write to: pettinellasd@gmail.com**
+One year after the drafting of this project I can say that the strategy of obtaining maps that update themselves, thus making the code as autonomous as possible and excluded from daily alterations in order to lower the costs of the service, has been achieved.
+The changes (in a year) related to the data were minimal: they only affect the graphical display of two regions. An "easy-to-repaire" job with pandas.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/simon danny pettinella" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="simon danny pettinella" height="30" width="40" /></a>
-<a href="https://fb.com/simon danny pettinella" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="simon danny pettinella" height="30" width="40" /></a>
-<a href="https://instagram.com/simon danny pettinella" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="simon danny pettinella" height="30" width="40" /></a>
-</p>
+Here are some example images:
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+![Senza titolo](https://user-images.githubusercontent.com/63848150/188211690-b574d545-9696-40c1-b3cd-327e9b67312a.png)
+![Senza titolo2](https://user-images.githubusercontent.com/63848150/188211903-4dc6b42e-e757-4315-868b-2778e3c1f551.png)
+![Senza titolo3](https://user-images.githubusercontent.com/63848150/188211920-b7021e3f-619e-4a49-bf4b-f01060e97cde.png)
+![Senza titolo4](https://user-images.githubusercontent.com/63848150/188211933-59de8133-42bf-4403-8f31-1f91c3225cc7.png)
+![Senza titolo5](https://user-images.githubusercontent.com/63848150/188211943-558ee288-1fcc-4802-a2f1-2e0291dfb6d6.jpg)
+![Senza titolo6](https://user-images.githubusercontent.com/63848150/188212170-c19f88e7-26e1-4983-b2cf-63bf2df530d0.jpg)
+![Senza titolo7](https://user-images.githubusercontent.com/63848150/188212079-e719453e-6c49-402c-a9c2-23b4b1d846f9.jpg)
+![Senza titolo8](https://user-images.githubusercontent.com/63848150/188211984-11e7e5df-022a-46db-9991-a9f5b4dac757.jpg)
